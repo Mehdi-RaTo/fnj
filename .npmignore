@@ -1,8 +1,0 @@
-node_modules
-src
-tests
-.github
-*.log
-.DS_Store
-.vscode
-.env

@@ -1,10 +1,10 @@
 {
     "name": "fnj",
-    "version": "1.0.2",
+    "version": "0.0.1-beta",
     "description": "A modern, lightweight, and powerful JavaScript utility library",
-    "main": "src/fnj.js",
+    "main": "fnj.js",
     "scripts": {
-        "test": "node src/fnj.js"
+        "test": "node fnj.js"
     },
     "repository": {
         "type": "git",
