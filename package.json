@@ -1,0 +1,24 @@
+{
+    "name": "fnj",
+    "version": "1.0.0",
+    "description": "A modern, lightweight, and powerful JavaScript utility library",
+    "main": "src/fnj.js",
+    "scripts": {
+        "test": "node src/fnj.js"
+    },
+    "keywords": [
+        "fnj",
+        "javascript",
+        "library"
+    ],
+    "author": "Mehdi-RaTo",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mehdi-RaTo/fnj.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Mehdi-RaTo/fnj/issues"
+    },
+    "homepage": "https://github.com/<YOUR_USERNAME>/fnj#readme"
+}
