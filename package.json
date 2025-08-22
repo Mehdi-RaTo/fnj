@@ -1,6 +1,6 @@
 {
     "name": "fnj",
-    "version": "1.0.0",
+    "version": "0.0.1-beta",
     "description": "A modern, lightweight, and powerful JavaScript utility library",
     "main": "fnj.js",
     "scripts": {
