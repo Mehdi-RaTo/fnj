@@ -6,6 +6,10 @@
     "scripts": {
         "test": "node src/fnj.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mehdi-RaTo/fnj.git"
+    },
     "keywords": [
         "fnj",
         "javascript",
@@ -13,10 +17,6 @@
     ],
     "author": "Mehdi-RaTo",
     "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Mehdi-RaTo/fnj.git"
-    },
     "bugs": {
         "url": "https://github.com/Mehdi-RaTo/fnj/issues"
     },
